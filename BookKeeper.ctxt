@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=BookKeeper
+comment1.params=aL
+comment1.target=BookKeeper(java.util.ArrayList)
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ BookKeeper\n
+comment2.params=
+comment2.target=java.lang.String\ takeInventory()
+comment2.text=\n\ Creates\ a\ String\ describing\ all\ real\ property\ and\ each\ items\ salvage\ value\n\ \n\ @return\ \ \ \ \ a\ String\ showing\ item\ value\ and\ description\ \n
+numComments=3

@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=ElectricPencilSharpener
+comment0.text=\n\ A\ simple\ Pencil\ Sharpener.\n\ \n\ @author\ GK\ \n\ @version\ 10-09-07,\ CPM\ 2/8/18\n
+comment1.params=new$
+comment1.target=ElectricPencilSharpener(int)
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ PencilSharpener\n
+comment2.params=
+comment2.target=int\ getSalvageValue()
+comment2.text=\n\ Calculates\ and\ return\ the\ current\ value\ based\ on\n\ \ purchace\ price\ and\ instance\ variables\ affected\ by\ use()\n\ \n\ @return\ \ \ \ \ current\ value\ \n
+comment3.params=
+comment3.target=java.lang.String\ use()
+comment3.text=\n\ Modifies\ instance\ variables\ based\ on\ normal\ use\n\ \n\ @return\ \ \ \ \ a\ String\ describing\ a\ typical\ use\ \n
+comment4.params=
+comment4.target=java.lang.String\ emptyShavings()
+comment5.params=
+comment5.target=java.lang.String\ replaceBlade()
+comment6.params=
+comment6.target=java.lang.String\ toString()
+numComments=7

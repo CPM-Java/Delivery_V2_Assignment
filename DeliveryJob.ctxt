@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=DeliveryJob
+comment0.text=DO\ NOT\ MODIFY\n\ Generate\ a\ delivery\ job.\n\ \n\ @author\ GK\ CPM\ \n\ @version\ 2/10/18\n
+comment1.params=
+comment1.target=DeliveryJob()
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ DeliveryJob\n
+comment2.params=
+comment2.target=int\ getWeight()
+comment2.text=\n\ Accessor\ method\ for\ weight\ of\ delivery\n\ @return\ \ \ \ \ weight\ in\ pounds\n
+comment3.params=
+comment3.target=int\ getDistance()
+comment3.text=\n\ Accessor\ method\ for\ round\ trip\ distance\ of\ delivery\n\ @return\ \ \ \ \ distance\ in\ miles\ \n
+comment4.params=
+comment4.target=java.lang.String\ toString()
+numComments=5

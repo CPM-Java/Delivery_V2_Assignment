@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=ElectricCar
+comment1.params=mfgYear\ initMiles\ lic
+comment1.target=ElectricCar(int,\ int,\ java.lang.String)
+comment1.text=\n\ Constructs\ a\ electric\ car\ with\ a\ year\ of\ manufacture\ and\ an\ initial\ number\ of\ miles.\n\ \n\ @param\ \ mfgYear\ \ the\ year\ of\ manufacture\n\ @param\ \ initMiles\ \ the\ initial\ odometer\ mileage\n\ @param\ \ lic\ \ \ a\ String\ representing\ the\ license\ plate\ number\n
+comment2.params=amount\ dist
+comment2.target=int\ deliver(int,\ int)
+comment2.text=\n\ simulates\ pickup\ and\ delivery\ of\ goods\n\ \n\ @param\ \ amount\ \ \ an\ integer\ representing\ the\ goods\ to\ be\ picked\ up\ in\ pounds\n\ @param\ \ dist\ \ \ an\ integer\ representing\ the\ round\ trip\ miles\ of\ the\ delivery\n\ @return\ \ \ \ \ an\ integer\ representing\ the\ time\ it\ took\ to\ complete\ the\ trip\ in\ minutes\n
+comment3.params=
+comment3.target=void\ carPoolLane()
+comment3.text=\n\ This\ method\ is\ unique\ to\ the\ ElectricCar\ class\n
+comment4.params=
+comment4.target=java.lang.String\ toString()
+comment5.params=
+comment5.target=int\ getCapacity()
+comment5.text=\n\ A\ static\ method\ to\ Access\ the\ cargo\ capacity\ of\ electric\ cars\ in\ pounds\n\ \n\ @return\ \ \ \ \ an\ integer\ representing\ the\ cargo\ capacity\ \n
+comment6.params=
+comment6.target=int\ getSalvageValue()
+comment6.text=\ PART\ OF\ THE\ INTERFACE\ ASSIGNMENT\n\ A\ method\ to\ calculate\ and\ return\ an\ electric\ car's\ value\n
+numComments=7

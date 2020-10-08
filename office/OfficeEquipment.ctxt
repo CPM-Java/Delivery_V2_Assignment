@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=OfficeEquipment
+comment0.text=\n\ Abstract\ class\ OfficeEquipment\ -\ write\ a\ description\ of\ the\ class\ here\n\ \n\ @author\ GK\ CPM\n\ @version\ 3/10/2018\n
+comment1.params=costNew
+comment1.target=OfficeEquipment(int)
+comment2.params=
+comment2.target=int\ getSalvageValue()
+comment3.params=
+comment3.target=java.lang.String\ use()
+comment4.params=
+comment4.target=int\ getCostNew()
+comment5.params=
+comment5.target=void\ kickMeInFrustration()
+numComments=6

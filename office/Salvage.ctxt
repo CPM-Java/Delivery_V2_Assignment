@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Salvage
+comment0.text=\n\ Any\ class\ that\ implements\ Salvage\ must\ provide\ the\ method\ getSalvageValue()\n\ and\ its\ objects\ may\ be\ referenced\ or\ grouped\ as\ <Salvage>\n\ \n\ @author\ GK\ CPM\ 2018\n\ @version\ 3/4/2018\n
+comment1.params=
+comment1.target=int\ getSalvageValue()
+comment1.text=\n\ Salvage\ value\ based\ on\ factors\ such\ as\ age\ condition\ and\ use\n\ \n\ @return\ \ \ \ \ \ \ \ the\ monetary\ salvage\ value\ of\ the\ asset\ \n
+numComments=2

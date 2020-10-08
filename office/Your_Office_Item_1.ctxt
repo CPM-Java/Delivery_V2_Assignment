@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Your_Office_Item_1
+comment0.text=\n\ Write\ a\ description\ of\ class\ Your_Office_Item_1\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=new$
+comment1.target=Your_Office_Item_1(int)
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ Your_Office_Item_1\n
+comment2.params=
+comment2.target=int\ getSalvageValue()
+comment2.text=\n\ Calculates\ and\ return\ the\ current\ value\ based\ on\n\ \ purchace\ price\ and\ instance\ variables\ affected\ by\ use()\n\ \n\ @return\ \ \ \ \ current\ value\ \n
+comment3.params=
+comment3.target=java.lang.String\ use()
+comment3.text=\n\ Modifies\ instance\ variables\ based\ on\ normal\ use\n\ \n\ @return\ \ \ \ \ a\ String\ describing\ a\ typical\ use\ \n
+comment4.params=
+comment4.target=java.lang.String\ toString()
+numComments=5
